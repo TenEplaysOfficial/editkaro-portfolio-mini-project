@@ -27,7 +27,7 @@ The webpage is designed to be visually engaging and fully responsive for both mo
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/TenEplaysOfficial/editkaro-portfolio.git
+   git clone https://github.com/TenEplaysOfficial/editkaro-portfolio-mini-project.git
    cd editkaro-portfolio
    ```
 
